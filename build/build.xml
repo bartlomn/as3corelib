@@ -6,7 +6,7 @@
 	<!-- ============================== -->
 
 	<property environment="env" />
-	
+
 	<fail unless="env.FLEX_HOME" message="FLEX_HOME needs to be defined as an environment variable or in the Ant build." />
 
 	<!-- Configuration -->
