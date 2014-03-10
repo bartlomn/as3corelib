@@ -62,7 +62,7 @@
                   <phase>compile</phase>
                   <configuration>
                      <target>
-                        <property name="env.FLEX_HOME" value="/Users/Bart/Dev/SDK/Flex/4.10.0 FP 11.8 AIR 3.8 en_US"/>
+                        <property name="env.FLEX_HOME" value="D:/Instalki/Flex/flex_sdk_4.10.0"/>
                         <!-- Will run build.xml in specified folder -->
                         <ant antfile="build/build.xml" dir="." />
                      </target>
